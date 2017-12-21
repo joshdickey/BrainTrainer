@@ -1,0 +1,8 @@
+
+<resources>
+    <dimen name="smallText">8dp</dimen>
+    <dimen name="smallPadding">8dp</dimen>
+    <dimen name="smallTextSize">30sp</dimen>
+    <dimen name="largeTextSize">50sp</dimen>
+    <dimen name="large_padding">16dp</dimen>
+</resources>

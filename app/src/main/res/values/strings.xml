@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Brain Trainer</string>
+    <string name="your_score">Your Score</string>
+    <string name="default_timer">30s</string>
+    <string name="default_equation">2 + 3</string>
+    <string name="default_score">0/0</string>
+    <string name="default_answer1">8</string>
+    <string name="default_answer2">24</string>
+    <string name="default_answer3">10</string>
+    <string name="default_answer4">5</string>
+    <string name="play_button">Play</string>
+</resources>
